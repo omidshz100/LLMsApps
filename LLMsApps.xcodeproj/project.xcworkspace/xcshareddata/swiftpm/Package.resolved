@@ -1,0 +1,24 @@
+{
+  "originHash" : "452cde89e59437fbf805f03bcf1de881fa34ef84281686a27376020e40cbca19",
+  "pins" : [
+    {
+      "identity" : "easyllama",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omidshz100/EasyLlama.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dc247960f1c613f9258d34ed5afdada5d8314149"
+      }
+    },
+    {
+      "identity" : "swift-llama-cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pgorzelany/swift-llama-cpp.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "605b79cc503dd79bf3aa259842596d42bcdedbe8"
+      }
+    }
+  ],
+  "version" : 3
+}
